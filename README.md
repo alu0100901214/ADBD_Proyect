@@ -12,8 +12,9 @@ También se pretende llevar la contabilidad de cada hotel de manera individual, 
 se pueda diferenciar los hoteles más y menos rentables de la cadena.
 
 ## Acuerdos del grupo para la distribución de tareas
+No ha existido una distribución de tareas como tal, ya que todos hemos participado en todas las tareas de manera equitativa, y hemos trabajado los 4 componentes del equipo por igual.
 
-
+## Enlaces a la documentación
 
 [Scripts de generación de código y carga de datos](https://drive.google.com/file/d/1Ryx6A2vtXkp_7wFJV23xbPWBNW4ptU9L/view?usp=sharing)
 
