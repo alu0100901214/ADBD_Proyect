@@ -1,4 +1,12 @@
-# ADBD_Proyect
+# Proyecto Administración de Bases de Datos
+
+## Introducción
+
+## Acuerdos del grupo para la distribución de tareas
+
+
+
+[Scripts de generación de código y carga de datos](https://drive.google.com/file/d/1Ryx6A2vtXkp_7wFJV23xbPWBNW4ptU9L/view?usp=sharing)
 
 [Modelo Conceptual](https://docs.google.com/document/d/15MBaxQP6zElRQn5rl6LCoLsPNcMMXbU96kVcJTTrJEs/edit?usp=sharing)
 
