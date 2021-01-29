@@ -1,6 +1,15 @@
 # Proyecto Administración de Bases de Datos
 
 ## Introducción
+La empresa “ Hoteles dulces hoteles” se dedica a la gestión de una cadena de hoteles famosa
+en todo Canarias, y parte del extranjero. La empresa está interesada en llevar el control del
+stock de los hoteles, así como de las habitaciones (histórico de alquiler de habitaciones con
+los clientes) y los comedores. A su vez se quiere llevar el histórico de empleados, tanto el
+personal de limpieza (empresa externa) como el propio personal del hotel (Recepcionistas,
+botones, conserje, camareros, cocineros, mantenimiento, seguridad, socorrista). Nuestra base
+de datos se adaptará a las instalaciones individuales de cada hotel.
+También se pretende llevar la contabilidad de cada hotel de manera individual, de manera que
+se pueda diferenciar los hoteles más y menos rentables de la cadena.
 
 ## Acuerdos del grupo para la distribución de tareas
 
